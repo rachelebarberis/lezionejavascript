@@ -11,9 +11,9 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 /* Ci sono diversi tipi di datatype in Javascript. Alcuni di quelli visto sono:
-I numeri:
-Le stringhe:
-Boolean: */
+I numeri: si tratta di dare valori a livello numerico. Affinchè funzione non deve essere racchiuso in apici.
+Le stringhe: si tratta di dare valore di testuale. Affichè funzioni è necessario racchiuderlo all'interno di apici
+Boolean: Serve per indicare se una variabile sia vera o falsa*/
 
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
